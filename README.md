@@ -144,6 +144,22 @@ Aplicativo desenvolvido em Flutter com interface moderna e responsiva.
   <img src="LINK_DA_IMAGEM_DO_APP" width="700px">
 </p>
 
+## Sites criados por mim utilizando HTML, CSS e JavaScript
+
+Site desenvolvido de forma indie
+
+🔹 HTML  
+🔹 CSS  
+🔹 JavaScript 
+
+<a href="[LINK_DO_PROJETO](https://astronomiainfinite.netlify.app/)">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-00C853?style=for-the-badge">
+</a>
+
+<p align="center">
+  <img src="LINK_DA_IMAGEM_DO_APP" width="700px">
+</p>
+
 ---
 
 # 🏆 Conquistas
@@ -254,7 +270,7 @@ Aplicativo desenvolvido em Flutter com interface moderna e responsiva.
 # 💭 Frase
 
 <p align="center">
-  <em>"Construindo meu futuro através da tecnologia."</em> 🚀
+  <em>"Visando a Tecnologia para o Futuro"</em> 🚀
 </p>
 
 ---
