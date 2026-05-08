@@ -157,7 +157,7 @@ Site desenvolvido de forma indie
 </a>
 
 <p align="center">
-  <img src="LINK_DA_IMAGEM_DO_APP" width="700px">
+  <img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/69d7ae7a-27a4-4a66-8ace-74313a3c5822" />
 </p>
 
 ---
