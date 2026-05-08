@@ -152,7 +152,7 @@ Site desenvolvido de forma indie
 🔹 CSS  
 🔹 JavaScript 
 
-<a href="[LINK_DO_PROJETO](https://astronomiainfinite.netlify.app/)">
+<a href="https://astronomiainfinite.netlify.app">
   <img src="https://img.shields.io/badge/Ver%20Projeto-00C853?style=for-the-badge">
 </a>
 
