@@ -1,4 +1,4 @@
-<h1 align="center">Hey, eu sou Raphael Campos Squilaro 👋</h1>
+<h1 align="center">Opa, eu sou Raphael Campos Squilaro 👋</h1>
 
 <p align="center">
   <em>Desenvolvedor de Sistemas • Java Developer • Flutter Mobile Dev</em>
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SEU-USUARIO">
+  <a href="https://github.com/raphaelsquilaro">
     <img src="https://img.shields.io/badge/-GitHub-00C853?style=flat-square&logo=github&logoColor=white">
   </a>
 
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-00C853?style=flat-square&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:raphael.squilaro@senai.aluno.br">
     <img src="https://img.shields.io/badge/-Email-00C853?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -43,13 +43,14 @@ public class RaphaelCampos {
 
     String nome = "Raphael Campos Squilaro";
     int idade = 17;
-    String escolaridade = "Ensino Médio Incompleto";
+    String escolaridade = "Ensino Médio Incompleto - Atualmente cursando o terceiro ensino médio e Desenvolvimento de Sistema - Senai";
 
     String[] habilidades = {
         "Java",
         "MVC",
         "HTML",
         "CSS",
+        "MySQL",
         "JavaScript",
         "Flutter",
         "Python Automation"
@@ -94,17 +95,15 @@ public class RaphaelCampos {
 
 # 🎯 Objetivo Profissional
 
-Busco minha primeira oportunidade na área de desenvolvimento de software para evoluir como desenvolvedor, adquirir experiência prática e contribuir com projetos reais.
+Busco minha primeira oportunidade na área de desenvolvimento de software para evoluir como desenvolvedor, adquirir experiência prática e contribuir com projetos reais, além de sempre querer saber mais no ramo de Tecnologia, principalmente em programação.
 
 ---
 
 # 🛤️ Minha Jornada
 
 ```txt
-2023 → Primeiro contato com programação
-2024 → Desenvolvimento Web
-2025 → Java + MVC + Flutter
-2026 → Automação com Python e projetos profissionais
+2025 → Inicio do curso de Desenvolvimento de Sistemas oferecido pelo Senai - Banco de dados 
+2026 → Aprofundamento em Estrutura MVC em Java e início em JavaScript, Flutter e Python
 ```
 
 ---
@@ -117,8 +116,7 @@ Sistema desktop utilizando arquitetura MVC e banco de dados MySQL.
 
 🔹 Java  
 🔹 MVC  
-🔹 MySQL  
-🔹 Swing  
+🔹 MySQL
 
 <a href="LINK_DO_PROJETO">
   <img src="https://img.shields.io/badge/Ver%20Projeto-00C853?style=for-the-badge">
@@ -192,7 +190,7 @@ Aplicativo desenvolvido em Flutter com interface moderna e responsiva.
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=github-compact&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelsquilaro&theme=github-compact&hide_border=true&area=true">
 </p>
 
 ---
@@ -200,7 +198,7 @@ Aplicativo desenvolvido em Flutter com interface moderna e responsiva.
 # 🐍 Snake Eating Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/raphaelsquilaro/raphaelsquilaro/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
@@ -218,11 +216,11 @@ Aplicativo desenvolvido em Flutter com interface moderna e responsiva.
 # 🖥️ Setup
 
 ```txt
-💻 Notebook/Desktop Gamer
+💻 Notebook/Desktop
 ⚡ VS Code
 ☕ Java + Flutter + Python
 🎧 Música enquanto programa
-🌙 Código até tarde
+🌙 Código até a noite
 ```
 
 ---
@@ -240,7 +238,7 @@ Aplicativo desenvolvido em Flutter com interface moderna e responsiva.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=matrix&no-frame=true&row=1&column=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=raphaelsquilaro&theme=matrix&no-frame=true&row=1&column=6">
 </p>
 
 ---
@@ -248,7 +246,7 @@ Aplicativo desenvolvido em Flutter com interface moderna e responsiva.
 # 👀 Contador de Visitas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visualizações&color=00ff99&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=raphaelsquilaro&label=Visualizações&color=00ff99&style=flat">
 </p>
 
 ---
