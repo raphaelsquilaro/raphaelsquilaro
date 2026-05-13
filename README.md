@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=25&center=true&vCenter=true&width=700&lines=Java+Developer;Flutter+Mobile+Developer;Python+Automation+Student;Sempre+aprendendo+novas+tecnologias🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=25&center=true&vCenter=true&width=700&lines=Java+Developer;Flutter+Mobile+Developer;Python+Automation+Student;Sempre+aprendendo+novas+tecnologias🚀;Ainda+estudando+dentro+do+Senai+e+Sesi">
 </p>
 
 ---
