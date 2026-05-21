@@ -2,7 +2,7 @@
 <!-- PROFESSIONAL README - RAPHAEL SQUILARO -->
 <!-- ========================================= -->
 
-<h1 align="center">Olá a todos</h1>
+<h1 align="center">Bem-vindos ao GitHub de Raphael Campos Squilaro</h1>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="400px">
