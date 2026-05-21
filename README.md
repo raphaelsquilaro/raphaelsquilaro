@@ -1,21 +1,31 @@
 <!-- ========================================= -->
-<!-- CYBERPUNK ANIME README - RAPHAEL SQUILARO -->
+<!-- TOKYO NEON README -->
+<!-- RAPHAEL CAMPOS SQUILARO -->
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=RAPHAEL%20CAMPOS%20SQUILARO&fontColor=00FFF7&fontSize=42&animation=fadeIn&fontAlignY=40&desc=Java%20Developer%20•%20Flutter%20Mobile%20Developer%20•%20Python%20Automation&descAlignY=58"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&text=RAPHAEL%20CAMPOS%20SQUILARO&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Tokyo%20Neon%20Developer%20⚡&descAlignY=58&color=0:0f0c29,25:302b63,50:24243e,75:ff00ff,100:00fff7"
+  />
 </p>
 
-<h3 align="center">
-⚡「 CYBERPUNK SOFTWARE ENGINEER 」⚡
-</h3>
+<h1 align="center">🌃 TOKYO NEON DEV 🌃</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420px">
+  <em>Java Developer • Flutter Mobile Dev • Python Automation</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&color=00FFF7&center=true&vCenter=true&width=1000&lines=JAVA+DEVELOPER;FLUTTER+MOBILE+DEV;PYTHON+AUTOMATION;MVC+ARCHITECTURE;BUILDING+THE+FUTURE+WITH+CODE+⚡;WELCOME+TO+MY+CYBERSPACE"/>
+  <img 
+    src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" 
+    width="500px"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=00FFF7&center=true&vCenter=true&width=1000&lines=Welcome+to+Neo+Tokyo...;Java+Developer;Flutter+Mobile+Developer;Python+Automation;Building+the+Future+with+Code+⚡;Night+Coding+Session+Activated..."
+  />
 </p>
 
 ---
@@ -23,29 +33,32 @@
 <div align="center">
 
 ```txt
-██████╗  █████╗ ██████╗ ██╗  ██╗ █████╗ ███████╗██╗     
-██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔══██╗██╔════╝██║     
-██████╔╝███████║██████╔╝███████║███████║█████╗  ██║     
-██╔══██╗██╔══██║██╔═══╝ ██╔══██║██╔══██║██╔══╝  ██║     
-██║  ██║██║  ██║██║     ██║  ██║██║  ██║███████╗███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+███╗   ██╗███████╗ ██████╗     ████████╗ ██████╗ ██╗  ██╗██╗   ██╗ ██████╗ 
+████╗  ██║██╔════╝██╔═══██╗    ╚══██╔══╝██╔═══██╗██║ ██╔╝╚██╗ ██╔╝██╔═══██╗
+██╔██╗ ██║█████╗  ██║   ██║       ██║   ██║   ██║█████╔╝  ╚████╔╝ ██║   ██║
+██║╚██╗██║██╔══╝  ██║   ██║       ██║   ██║   ██║██╔═██╗   ╚██╔╝  ██║   ██║
+██║ ╚████║███████╗╚██████╔╝       ██║   ╚██████╔╝██║  ██╗   ██║   ╚██████╔╝
+╚═╝  ╚═══╝╚══════╝ ╚═════╝        ╚═╝    ╚═════╝ ╚═╝  ╚═╝   ╚═╝    ╚═════╝ 
 ```
 
 </div>
 
 ---
 
-# 🌌 「 SOBRE MIM 」
+# 🌌 Sobre Mim
 
 <p align="center">
-  Desenvolvedor apaixonado por tecnologia, automação e sistemas inteligentes.<br>
-  Atualmente explorando Java, Flutter, Python Automation e arquitetura MVC.<br>
-  Sempre evoluindo em direção ao próximo nível ⚡
+  
+⚡ Desenvolvedor apaixonado por tecnologia e inovação.<br>
+🌃 Explorando Java, Flutter, Python Automation e arquitetura MVC.<br>
+🚀 Sempre evoluindo dentro do universo da programação.<br>
+🎧 Café, música e código durante a madrugada.
+
 </p>
 
 ---
 
-# 🌐 「 REDES & CONTATO 」
+# 🌐 Conexões
 
 <p align="center">
 
@@ -54,7 +67,7 @@
 </a>
 
 <a href="https://www.linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-FF00F7?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/LinkedIn-FF00FF?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:raphael.squilaro@senai.aluno.br">
@@ -65,36 +78,33 @@
 
 ---
 
-# ⚔️ 「 SYSTEM STATUS 」
+# 💻 System.exe
 
 ```java
 public class RaphaelCampos {
 
-    String codename = "Cyber Dev";
+    String city = "Neo Tokyo";
+    String role = "Software Developer";
     int level = 17;
 
-    String currentMission =
-        "Dominar desenvolvimento Full Stack + Mobile";
-
-    String[] powers = {
+    String[] stack = {
         "Java",
-        "MVC Architecture",
         "Flutter",
-        "Python Automation",
-        "JavaScript",
+        "Python",
         "MySQL",
+        "JavaScript",
         "HTML",
         "CSS"
     };
 
-    boolean studying = true;
-    boolean evolving = true;
+    String mission =
+        "Become a Full Stack & Mobile Developer";
 }
 ```
 
 ---
 
-# 🚀 「 TECH ARSENAL 」
+# ⚡ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,flutter,html,css,javascript,mysql,git,github,vscode" />
@@ -102,95 +112,83 @@ public class RaphaelCampos {
 
 ---
 
-# 🧠 「 KNOWLEDGE DATABASE 」
+# 🧠 Conhecimentos
 
 <div align="center">
 
-| TECHNOLOGY | STATUS |
+| Skill | Power |
 |---|---|
 | ☕ Java | ██████████ |
 | 📱 Flutter | ████████ |
-| 🤖 Python Automation | ███████ |
-| 🌐 HTML/CSS/JS | █████████ |
+| 🤖 Python | ███████ |
+| 🌐 Front-End | █████████ |
 | 🗄️ MySQL | ███████ |
-| 🔧 Git & GitHub | ████████ |
+| 🔧 Git/GitHub | ████████ |
 
 </div>
 
 ---
 
-# 📚 「 CURRENTLY LEARNING 」
+# 📚 Atualmente Estudando
 
 ```txt
 ⚡ Spring Boot
-⚡ REST APIs
-⚡ Clean Code
-⚡ Estruturas de Dados
+⚡ APIs REST
 ⚡ Flutter Advanced
 ⚡ Python Automation
+⚡ Estruturas de Dados
+⚡ Clean Code
 ```
 
 ---
 
-# 🛤️ 「 TIMELINE 」
+# 🛤️ Timeline
 
 ```txt
-[2025] → Início da jornada no SENAI
-[2025] → Banco de Dados + Java
-[2026] → MVC Architecture
-[2026] → Flutter + Python Automation
-[2026] → Construção de projetos reais
+2025 → Início no SENAI
+2025 → Banco de Dados + Java
+2026 → MVC Architecture
+2026 → Flutter + Python
+2026 → Projetos reais e evolução constante
 ```
 
 ---
 
-# 🚀 「 FEATURED PROJECTS 」
+# 🚀 Projetos
 
-## ☕ SYSTEM MVC JAVA
+## ☕ Sistema MVC em Java
 
 ```txt
-> Desktop system using MVC Architecture + MySQL
+Desktop System + MVC Architecture + MySQL
 ```
-
-⚡ Java  
-⚡ MVC  
-⚡ MySQL  
 
 <p align="center">
   <a href="LINK_DO_PROJETO">
-    <img src="https://img.shields.io/badge/ACCESS_PROJECT-00FFF7?style=for-the-badge&logo=github&logoColor=black">
+    <img src="https://img.shields.io/badge/OPEN_PROJECT-00FFF7?style=for-the-badge&logo=github&logoColor=black">
   </a>
 </p>
 
 ---
 
-## 📱 FLUTTER MOBILE APP
+## 📱 Flutter Mobile App
 
 ```txt
-> Responsive mobile application with modern UI
+Modern UI + Responsive Mobile Application
 ```
-
-⚡ Flutter  
-⚡ Dart  
-⚡ Firebase  
 
 <p align="center">
   <a href="LINK_DO_PROJETO">
-    <img src="https://img.shields.io/badge/ACCESS_PROJECT-FF00F7?style=for-the-badge&logo=flutter&logoColor=white">
+    <img src="https://img.shields.io/badge/OPEN_PROJECT-FF00FF?style=for-the-badge&logo=flutter&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 🌌 ASTRONOMIA INFINITE
+## 🌌 Astronomia Infinite
 
 ```txt
-> Indie website developed with HTML/CSS/JavaScript
+Indie Website using HTML + CSS + JavaScript
 ```
-
-⚡ HTML  
-⚡ CSS  
-⚡ JavaScript  
 
 <p align="center">
   <a href="https://astronomiainfinite.netlify.app">
@@ -199,37 +197,21 @@ public class RaphaelCampos {
 </p>
 
 <p align="center">
-  <img width="1000" src="https://github.com/user-attachments/assets/69d7ae7a-27a4-4a66-8ace-74313a3c5822"/>
+  <img 
+    width="1000"
+    src="https://github.com/user-attachments/assets/69d7ae7a-27a4-4a66-8ace-74313a3c5822"
+  />
 </p>
 
 ---
 
-# 🏆 「 ACHIEVEMENTS 」
-
-```txt
-✔ Java Developer
-✔ Flutter Mobile Developer
-✔ Python Automation Student
-✔ Software Development Student
-✔ Continuous Learning Mindset
-```
-
----
-
-# 🌎 「 LANGUAGES 」
-
-- 🇧🇷 Portuguese → Native
-- 🇺🇸 English → Basic / Intermediate
-
----
-
-# 📊 「 GITHUB STATS 」
+# 📊 GitHub Stats
 
 <p align="center">
 
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=raphaelsquilaro&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFF7&icon_color=FF00F7&text_color=ffffff&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api?username=raphaelsquilaro&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFF7&icon_color=FF00FF&text_color=ffffff&bg_color=0d1117"
   />
 
   <img 
@@ -241,23 +223,27 @@ public class RaphaelCampos {
 
 ---
 
-# 🔥 「 CONTRIBUTION STREAK 」
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raphaelsquilaro&theme=tokyonight&hide_border=true&ring=00FFF7&fire=FF00F7&currStreakLabel=00FFF7"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=raphaelsquilaro&theme=tokyonight&hide_border=true&ring=00FFF7&fire=FF00FF&currStreakLabel=00FFF7"
+  />
 </p>
 
 ---
 
-# 📈 「 ACTIVITY GRAPH 」
+# 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelsquilaro&theme=react-dark&hide_border=true&area=true"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelsquilaro&theme=react-dark&hide_border=true&area=true"
+  />
 </p>
 
 ---
 
-# 🐍 「 SNAKE SYSTEM 」
+# 🐍 Snake Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/raphaelsquilaro/raphaelsquilaro/output/github-contribution-grid-snake.svg">
@@ -265,7 +251,7 @@ public class RaphaelCampos {
 
 ---
 
-# 🎧 「 NOW PLAYING 」
+# 🎧 Now Playing
 
 <p align="center">
 
@@ -275,56 +261,62 @@ public class RaphaelCampos {
 
 ---
 
-# 🖥️ 「 SETUP 」
+# 🖥️ Setup
 
 ```txt
-💻 Machine → Notebook/Desktop
-⚡ IDE → VS Code
-☕ Main Stack → Java + Flutter + Python
-🎧 Status → Coding with music
-🌙 Time → Late Night Programming
+💻 Notebook/Desktop
+⚡ VS Code
+☕ Java + Flutter + Python
+🎧 Lo-fi + Night Coding
+🌃 Tokyo Neon Vibes
 ```
 
 ---
 
-# 🎯 「 GOALS 2026 」
+# 🎯 Goals 2026
 
 ```txt
-[✔] Conseguir primeira oportunidade DEV
-[✔] Publicar aplicativos mobile
-[✔] Dominar Java + Spring Boot
-[✔] Criar automações inteligentes
-[✔] Construir portfólio forte
+✔ First Dev Opportunity
+✔ Publish Mobile Apps
+✔ Master Java + Spring Boot
+✔ Advanced Python Automation
+✔ Build Strong Portfolio
 ```
 
 ---
 
-# 🏆 「 GITHUB TROPHIES 」
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raphaelsquilaro&theme=matrix&no-frame=true&row=1&column=6"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=raphaelsquilaro&theme=algolia&no-frame=true&row=1&column=6"
+  />
 </p>
 
 ---
 
-# 👀 「 VISITOR COUNTER 」
+# 👀 Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raphaelsquilaro&label=CYBER_VISITORS&color=00fff7&style=for-the-badge"/>
+  <img 
+    src="https://komarev.com/ghpvc/?username=raphaelsquilaro&label=NEON_VISITORS&color=00fff7&style=for-the-badge"
+  />
 </p>
 
 ---
 
-# 💭 「 QUOTE 」
+# 💭 Quote
 
 <p align="center">
 
-> "Visando a Tecnologia para o Futuro." ⚡
+> ⚡ "Visando a Tecnologia para o Futuro."
 
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f0c29,25:302b63,50:24243e,75:ff00ff,100:00fff7&section=footer"
+  />
 </p>
