@@ -1,68 +1,100 @@
-<h1 align="center">Opa, eu sou Raphael Campos Squilaro 👋</h1>
+<!-- ========================================= -->
+<!-- CYBERPUNK ANIME README - RAPHAEL SQUILARO -->
+<!-- ========================================= -->
 
 <p align="center">
-  <em>Desenvolvedor de Sistemas • Java Developer • Flutter Mobile Dev</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f0c29,50:302b63,100:24243e&text=RAPHAEL%20CAMPOS%20SQUILARO&fontColor=00FFF7&fontSize=42&animation=fadeIn&fontAlignY=40&desc=Java%20Developer%20•%20Flutter%20Mobile%20Developer%20•%20Python%20Automation&descAlignY=58"/>
+</p>
+
+<h3 align="center">
+⚡「 CYBERPUNK SOFTWARE ENGINEER 」⚡
+</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420px">
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350px" alt="coding gif" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=25&center=true&vCenter=true&width=700&lines=Java+Developer;Flutter+Mobile+Developer;Python+Automation+Student;Sempre+aprendendo+novas+tecnologias🚀;Ainda+estudando+dentro+do+Senai+e+Sesi">
-</p>
-
----
-
-<p align="center">
-  Apaixonado por tecnologia, desenvolvimento de software e automação.  
-  Atualmente focado em Java, arquitetura MVC, desenvolvimento mobile com Flutter  
-  e aprendendo automações inteligentes com Python 🚀
-</p>
-
-<p align="center">
-  <a href="https://github.com/raphaelsquilaro">
-    <img src="https://img.shields.io/badge/-GitHub-00C853?style=flat-square&logo=github&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-    <img src="https://img.shields.io/badge/-LinkedIn-00C853?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:raphael.squilaro@senai.aluno.br">
-    <img src="https://img.shields.io/badge/-Email-00C853?style=flat-square&logo=gmail&logoColor=white">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&color=00FFF7&center=true&vCenter=true&width=1000&lines=JAVA+DEVELOPER;FLUTTER+MOBILE+DEV;PYTHON+AUTOMATION;MVC+ARCHITECTURE;BUILDING+THE+FUTURE+WITH+CODE+⚡;WELCOME+TO+MY+CYBERSPACE"/>
 </p>
 
 ---
 
-# 💫 Sobre Mim
+<div align="center">
+
+```txt
+██████╗  █████╗ ██████╗ ██╗  ██╗ █████╗ ███████╗██╗     
+██╔══██╗██╔══██╗██╔══██╗██║  ██║██╔══██╗██╔════╝██║     
+██████╔╝███████║██████╔╝███████║███████║█████╗  ██║     
+██╔══██╗██╔══██║██╔═══╝ ██╔══██║██╔══██║██╔══╝  ██║     
+██║  ██║██║  ██║██║     ██║  ██║██║  ██║███████╗███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+```
+
+</div>
+
+---
+
+# 🌌 「 SOBRE MIM 」
+
+<p align="center">
+  Desenvolvedor apaixonado por tecnologia, automação e sistemas inteligentes.<br>
+  Atualmente explorando Java, Flutter, Python Automation e arquitetura MVC.<br>
+  Sempre evoluindo em direção ao próximo nível ⚡
+</p>
+
+---
+
+# 🌐 「 REDES & CONTATO 」
+
+<p align="center">
+
+<a href="https://github.com/raphaelsquilaro">
+  <img src="https://img.shields.io/badge/GitHub-00FFF7?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-FF00F7?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:raphael.squilaro@senai.aluno.br">
+  <img src="https://img.shields.io/badge/Email-00FFF7?style=for-the-badge&logo=gmail&logoColor=black">
+</a>
+
+</p>
+
+---
+
+# ⚔️ 「 SYSTEM STATUS 」
 
 ```java
 public class RaphaelCampos {
 
-    String nome = "Raphael Campos Squilaro";
-    int idade = 17;
-    String escolaridade = "Ensino Médio Incompleto - Atualmente cursando o terceiro ensino médio e Desenvolvimento de Sistema - Senai";
+    String codename = "Cyber Dev";
+    int level = 17;
 
-    String[] habilidades = {
+    String currentMission =
+        "Dominar desenvolvimento Full Stack + Mobile";
+
+    String[] powers = {
         "Java",
-        "MVC",
-        "HTML",
-        "CSS",
-        "MySQL",
-        "JavaScript",
+        "MVC Architecture",
         "Flutter",
-        "Python Automation"
+        "Python Automation",
+        "JavaScript",
+        "MySQL",
+        "HTML",
+        "CSS"
     };
 
-    String objetivo = "Me tornar um desenvolvedor full stack e mobile de alto nível.";
+    boolean studying = true;
+    boolean evolving = true;
 }
 ```
 
 ---
 
-# 🚀 Tecnologias & Ferramentas
+# 🚀 「 TECH ARSENAL 」
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,flutter,html,css,javascript,mysql,git,github,vscode" />
@@ -70,148 +102,162 @@ public class RaphaelCampos {
 
 ---
 
-# 🧠 Conhecimentos
+# 🧠 「 KNOWLEDGE DATABASE 」
 
-- 🏗️ Arquitetura MVC
-- ☕ Desenvolvimento Java
-- 📱 Desenvolvimento Mobile com Flutter
-- 🌐 HTML, CSS e JavaScript
-- 🤖 Automação com Python
-- 🗄️ Banco de Dados MySQL
-- 🔧 Git & GitHub
+<div align="center">
 
----
+| TECHNOLOGY | STATUS |
+|---|---|
+| ☕ Java | ██████████ |
+| 📱 Flutter | ████████ |
+| 🤖 Python Automation | ███████ |
+| 🌐 HTML/CSS/JS | █████████ |
+| 🗄️ MySQL | ███████ |
+| 🔧 Git & GitHub | ████████ |
 
-# 📚 Atualmente Estudando
-
-- Spring Boot
-- APIs REST
-- Python Automation
-- Flutter Avançado
-- Estruturas de Dados
-- Clean Code
+</div>
 
 ---
 
-# 🎯 Objetivo Profissional
-
-Busco minha primeira oportunidade na área de desenvolvimento de software para evoluir como desenvolvedor, adquirir experiência prática e contribuir com projetos reais, além de sempre querer saber mais no ramo de Tecnologia, principalmente em programação.
-
----
-
-# 🛤️ Minha Jornada
+# 📚 「 CURRENTLY LEARNING 」
 
 ```txt
-2025 → Inicio do curso de Desenvolvimento de Sistemas oferecido pelo Senai - Banco de dados 
-2026 → Aprofundamento em Estrutura MVC em Java e início em JavaScript, Flutter e Python
+⚡ Spring Boot
+⚡ REST APIs
+⚡ Clean Code
+⚡ Estruturas de Dados
+⚡ Flutter Advanced
+⚡ Python Automation
 ```
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🛤️ 「 TIMELINE 」
 
-## ☕ Sistema MVC em Java
+```txt
+[2025] → Início da jornada no SENAI
+[2025] → Banco de Dados + Java
+[2026] → MVC Architecture
+[2026] → Flutter + Python Automation
+[2026] → Construção de projetos reais
+```
 
-Sistema desktop utilizando arquitetura MVC e banco de dados MySQL.
+---
 
-🔹 Java  
-🔹 MVC  
-🔹 MySQL
+# 🚀 「 FEATURED PROJECTS 」
 
-<a href="LINK_DO_PROJETO">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-00C853?style=for-the-badge">
-</a>
+## ☕ SYSTEM MVC JAVA
+
+```txt
+> Desktop system using MVC Architecture + MySQL
+```
+
+⚡ Java  
+⚡ MVC  
+⚡ MySQL  
 
 <p align="center">
-  <img src="LINK_DA_IMAGEM_DO_PROJETO" width="700px">
+  <a href="LINK_DO_PROJETO">
+    <img src="https://img.shields.io/badge/ACCESS_PROJECT-00FFF7?style=for-the-badge&logo=github&logoColor=black">
+  </a>
 </p>
 
 ---
 
-## 📱 Aplicativo Mobile em Flutter
+## 📱 FLUTTER MOBILE APP
 
-Aplicativo desenvolvido em Flutter com interface moderna e responsiva.
+```txt
+> Responsive mobile application with modern UI
+```
 
-🔹 Flutter  
-🔹 Dart  
-🔹 Firebase  
-
-<a href="LINK_DO_PROJETO">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-00C853?style=for-the-badge">
-</a>
+⚡ Flutter  
+⚡ Dart  
+⚡ Firebase  
 
 <p align="center">
-  <img src="LINK_DA_IMAGEM_DO_APP" width="700px">
-</p>
-
-## Sites criados por mim utilizando HTML, CSS e JavaScript
-
-Site desenvolvido de forma indie
-
-🔹 HTML  
-🔹 CSS  
-🔹 JavaScript 
-
-<a href="https://astronomiainfinite.netlify.app">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-00C853?style=for-the-badge">
-</a>
-
-<p align="center">
-  <img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/69d7ae7a-27a4-4a66-8ace-74313a3c5822" />
+  <a href="LINK_DO_PROJETO">
+    <img src="https://img.shields.io/badge/ACCESS_PROJECT-FF00F7?style=for-the-badge&logo=flutter&logoColor=white">
+  </a>
 </p>
 
 ---
 
-# 🏆 Conquistas
+## 🌌 ASTRONOMIA INFINITE
 
-- 🚀 Desenvolvedor Java
-- 📱 Flutter Developer
-- 🤖 Python Automation Student
-- 💻 Desenvolvedor de Sistemas
-- 🔥 Aprendizado contínuo em tecnologia
+```txt
+> Indie website developed with HTML/CSS/JavaScript
+```
 
----
-
-# 🌎 Idiomas
-
-- 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Básico/Intermediário
-
----
-
-# 📊 GitHub Stats
+⚡ HTML  
+⚡ CSS  
+⚡ JavaScript  
 
 <p align="center">
+  <a href="https://astronomiainfinite.netlify.app">
+    <img src="https://img.shields.io/badge/OPEN_WEBSITE-00FFF7?style=for-the-badge&logo=google-chrome&logoColor=black">
+  </a>
+</p>
+
+<p align="center">
+  <img width="1000" src="https://github.com/user-attachments/assets/69d7ae7a-27a4-4a66-8ace-74313a3c5822"/>
+</p>
+
+---
+
+# 🏆 「 ACHIEVEMENTS 」
+
+```txt
+✔ Java Developer
+✔ Flutter Mobile Developer
+✔ Python Automation Student
+✔ Software Development Student
+✔ Continuous Learning Mindset
+```
+
+---
+
+# 🌎 「 LANGUAGES 」
+
+- 🇧🇷 Portuguese → Native
+- 🇺🇸 English → Basic / Intermediate
+
+---
+
+# 📊 「 GITHUB STATS 」
+
+<p align="center">
+
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=raphaelsquilaro&show_icons=true&theme=tokyonight&hide_border=true&title_color=00FFF7&icon_color=FF00F7&text_color=ffffff&bg_color=0d1117"
   />
 
   <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsquilaro&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFF7&text_color=ffffff&bg_color=0d1117"
   />
+
 </p>
 
 ---
 
-# 🔥 Sequência de Contribuições
+# 🔥 「 CONTRIBUTION STREAK 」
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=github-dark&hide_border=true&ring=00ff99&fire=00ff99&currStreakLabel=00ff99" />
+  <img src="https://streak-stats.demolab.com?user=raphaelsquilaro&theme=tokyonight&hide_border=true&ring=00FFF7&fire=FF00F7&currStreakLabel=00FFF7"/>
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 「 ACTIVITY GRAPH 」
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelsquilaro&theme=github-compact&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelsquilaro&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
 
-# 🐍 Snake Eating Contributions
+# 🐍 「 SNAKE SYSTEM 」
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/raphaelsquilaro/raphaelsquilaro/output/github-contribution-grid-snake.svg">
@@ -219,62 +265,66 @@ Site desenvolvido de forma indie
 
 ---
 
-# 🎧 Tocando Agora
+# 🎧 「 NOW PLAYING 」
 
 <p align="center">
-  
+
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
 
 </p>
 
 ---
 
-# 🖥️ Setup
+# 🖥️ 「 SETUP 」
 
 ```txt
-💻 Notebook/Desktop
-⚡ VS Code
-☕ Java + Flutter + Python
-🎧 Música enquanto programa
-🌙 Código até a noite
+💻 Machine → Notebook/Desktop
+⚡ IDE → VS Code
+☕ Main Stack → Java + Flutter + Python
+🎧 Status → Coding with music
+🌙 Time → Late Night Programming
 ```
 
 ---
 
-# 🎯 Metas para 2026
+# 🎯 「 GOALS 2026 」
 
-- 🚀 Conseguir minha primeira oportunidade como dev
-- 📱 Publicar aplicativos mobile
-- ☕ Dominar Java e Spring Boot
-- 🤖 Criar automações avançadas em Python
-- 🌎 Construir um portfólio forte
+```txt
+[✔] Conseguir primeira oportunidade DEV
+[✔] Publicar aplicativos mobile
+[✔] Dominar Java + Spring Boot
+[✔] Criar automações inteligentes
+[✔] Construir portfólio forte
+```
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 「 GITHUB TROPHIES 」
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raphaelsquilaro&theme=matrix&no-frame=true&row=1&column=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=raphaelsquilaro&theme=matrix&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
 
-# 👀 Contador de Visitas
+# 👀 「 VISITOR COUNTER 」
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raphaelsquilaro&label=Visualizações&color=00ff99&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=raphaelsquilaro&label=CYBER_VISITORS&color=00fff7&style=for-the-badge"/>
 </p>
 
 ---
 
-# 💭 Frase
+# 💭 「 QUOTE 」
 
 <p align="center">
-  <em>"Visando a Tecnologia para o Futuro"</em> 🚀
+
+> "Visando a Tecnologia para o Futuro." ⚡
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff99&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0f0c29,50:302b63,100:24243e&section=footer"/>
 </p>
