@@ -2,7 +2,11 @@
 <!-- PROFESSIONAL README - RAPHAEL SQUILARO -->
 <!-- ========================================= -->
 
-<h1 align="center">Raphael Campos Squilaro 👋</h1>
+<h1 align="center">Olá a todos</h1>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="400px">
+</p>
 
 <p align="center">
   <strong>Desenvolvedor de Sistemas • Java Developer • Flutter Mobile Developer</strong>
