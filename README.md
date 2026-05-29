@@ -161,16 +161,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsquil
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=raphaelsquilaro&theme=matrix&no-frame=true&row=1&column=6"
-  />
-</p>
-
----
-
 ## 🌎 Idiomas
 
 * 🇧🇷 Português — Nativo
