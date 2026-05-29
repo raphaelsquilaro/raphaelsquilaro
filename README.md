@@ -1,29 +1,47 @@
-# <h1 align="center">👨‍💻 Raphael Campos Squilaro</h1>
+# <h1 align="center">Hey, I'm Raphael Campos Squilaro 👋</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="350px"/>
+  <em>Java Developer • Flutter Developer • Software Developer</em>
 </p>
 
-<h3 align="center">
-  Desenvolvedor Java • Flutter Developer • Software Developer
-</h3>
-
 <p align="center">
-  Apaixonado por tecnologia, desenvolvimento de software e automação.
+  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="400px" alt="coding gif looping" />
 </p>
 
 ---
 
-# 🚀 Sobre Mim
+<p align="center">
+  Apaixonado por tecnologia, desenvolvimento de software e automação.  
+  Aqui você vai encontrar meus projetos, estudos e experiências com Java, Flutter, Python e desenvolvimento Full Stack 🚀
+</p>
 
-🎓 Estudante de Desenvolvimento de Sistemas no SENAI
-📚 Cursando o 3º ano do Ensino Médio
-💻 Focado em desenvolvimento Full Stack e Mobile
-⚡ Sempre buscando aprender novas tecnologias e criar projetos práticos
+<p align="center">
+  <a href="https://github.com/raphaelsquilaro">
+    <img src="https://img.shields.io/badge/-GitHub-00C853?style=flat-square&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/-LinkedIn-00C853?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:raphael.squilaro@senai.aluno.br">
+    <img src="https://img.shields.io/badge/-Email-00C853?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
-# 🛠️ Tecnologias & Ferramentas
+## 🧠 About Me
+
+* 🎓 Estudante de Desenvolvimento de Sistemas no SENAI
+* 📚 Cursando o 3º ano do Ensino Médio
+* 💻 Focado em desenvolvimento Full Stack e Mobile
+* ⚡ Sempre buscando aprender novas tecnologias
+* 🚀 Em busca da primeira oportunidade como desenvolvedor
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,flutter,dart,html,css,javascript,mysql,git,github,vscode,firebase" />
@@ -31,7 +49,7 @@
 
 ---
 
-# 📚 Atualmente Estudando
+## 📚 Atualmente Estudando
 
 * ☕ Spring Boot
 * 🔗 APIs REST
@@ -42,30 +60,13 @@
 
 ---
 
-# 🎯 Objetivo
+## 🚀 Projetos em Destaque
 
-Busco minha primeira oportunidade na área de desenvolvimento de software para adquirir experiência prática, contribuir em projetos reais e evoluir profissionalmente como desenvolvedor Full Stack e Mobile.
-
----
-
-# 🛤️ Minha Jornada
-
-```txt
-2025 → Início do curso Técnico em Desenvolvimento de Sistemas
-2025 → Estudos em Java e Banco de Dados
-2026 → Aprofundamento em Flutter, MVC e Python
-2026 → Desenvolvimento de projetos práticos
-```
-
----
-
-# 🚀 Projetos em Destaque
-
-## ☕ Sistema MVC em Java
+### ☕ Sistema MVC em Java
 
 Sistema desktop utilizando arquitetura MVC integrada ao MySQL.
 
-### ⚙️ Tecnologias
+#### ⚙️ Tecnologias
 
 * Java
 * MVC
@@ -79,11 +80,11 @@ Sistema desktop utilizando arquitetura MVC integrada ao MySQL.
 
 ---
 
-## 📱 Aplicativo Mobile em Flutter
+### 📱 Aplicativo Mobile em Flutter
 
 Aplicativo mobile moderno e responsivo desenvolvido com Flutter.
 
-### ⚙️ Tecnologias
+#### ⚙️ Tecnologias
 
 * Flutter
 * Dart
@@ -97,11 +98,11 @@ Aplicativo mobile moderno e responsivo desenvolvido com Flutter.
 
 ---
 
-## 🌌 Astronomia Infinite
+### 🌌 Astronomia Infinite
 
 Website sobre astronomia desenvolvido com HTML, CSS e JavaScript.
 
-### ⚙️ Tecnologias
+#### ⚙️ Tecnologias
 
 * HTML5
 * CSS3
@@ -122,7 +123,7 @@ Website sobre astronomia desenvolvido com HTML, CSS e JavaScript.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -140,7 +141,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsquil
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img
@@ -150,7 +151,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsquil
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity Graph
 
 <p align="center">
   <img
@@ -160,7 +161,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsquil
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img
@@ -170,14 +171,14 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsquil
 
 ---
 
-# 🌎 Idiomas
+## 🌎 Idiomas
 
 * 🇧🇷 Português — Nativo
 * 🇺🇸 Inglês — Básico / Intermediário
 
 ---
 
-# 🖥️ Meu Setup
+## 🖥️ Meu Setup
 
 ```txt
 💻 Notebook/Desktop
@@ -189,7 +190,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsquil
 
 ---
 
-# 🎯 Metas para 2026
+## 🎯 Metas para 2026
 
 * 🚀 Conseguir minha primeira oportunidade como desenvolvedor
 * 📱 Publicar aplicativos mobile
@@ -199,7 +200,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsquil
 
 ---
 
-# 🌐 Contato
+## 🌐 Contato
 
 <p align="center">
 
@@ -219,7 +220,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsquil
 
 ---
 
-# 👀 Visualizações
+## 👀 Visualizações
 
 <p align="center">
   <img
@@ -229,10 +230,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsquil
 
 ---
 
-# 💭 Frase
+## 💭 Frase
 
 <p align="center">
-  <i>"Transformando ideias em tecnologia."</i> 🚀
+  <em>Keep building. One commit at a time.</em> 🟩
 </p>
 
 ---
