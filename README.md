@@ -1,7 +1,3 @@
-<!-- ========================================= -->
-<!-- PROFESSIONAL README - RAPHAEL SQUILARO -->
-<!-- ========================================= -->
-
 <h1 align="center">Bem-vindos ao GitHub de Raphael Campos Squilaro</h1>
 
 <p align="center">
