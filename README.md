@@ -1,12 +1,12 @@
-<h1 align="center">Bem-vindos ao GitHub de Raphael Campos Squilaro</h1>
+# <h1 align="center">👨‍💻 Raphael Campos Squilaro</h1>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="400px">
+  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="350px"/>
 </p>
 
-<p align="center">
-  <strong>Desenvolvedor de Sistemas • Java Developer • Flutter Mobile Developer</strong>
-</p>
+<h3 align="center">
+  Desenvolvedor Java • Flutter Developer • Software Developer
+</h3>
 
 <p align="center">
   Apaixonado por tecnologia, desenvolvimento de software e automação.
@@ -14,67 +14,46 @@
 
 ---
 
-## 🚀 Sobre Mim
+# 🚀 Sobre Mim
 
-Sou estudante de Desenvolvimento de Sistemas no SENAI e atualmente curso o terceiro ano do Ensino Médio.
-
-Tenho foco em:
-
-- ☕ Desenvolvimento Java
-- 📱 Desenvolvimento Mobile com Flutter
-- 🏗️ Arquitetura MVC
-- 🤖 Automação com Python
-- 🌐 Desenvolvimento Web
-
-Busco constantemente aprender novas tecnologias e evoluir minhas habilidades através de projetos práticos.
+🎓 Estudante de Desenvolvimento de Sistemas no SENAI
+📚 Cursando o 3º ano do Ensino Médio
+💻 Focado em desenvolvimento Full Stack e Mobile
+⚡ Sempre buscando aprender novas tecnologias e criar projetos práticos
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+# 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,flutter,html,css,javascript,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,flutter,dart,html,css,javascript,mysql,git,github,vscode,firebase" />
 </p>
 
 ---
 
-## 🧠 Conhecimentos
+# 📚 Atualmente Estudando
 
-- Java
-- MVC Architecture
-- Flutter
-- Python Automation
-- HTML5
-- CSS3
-- JavaScript
-- MySQL
-- Git & GitHub
+* ☕ Spring Boot
+* 🔗 APIs REST
+* 📱 Flutter Avançado
+* 🧠 Estruturas de Dados
+* 🏗️ Clean Architecture
+* 🤖 Automação com Python
 
 ---
 
-## 📚 Atualmente Estudando
-
-- Spring Boot
-- APIs REST
-- Flutter Avançado
-- Estruturas de Dados
-- Clean Code
-- Python Automation
-
----
-
-## 🎯 Objetivo Profissional
+# 🎯 Objetivo
 
 Busco minha primeira oportunidade na área de desenvolvimento de software para adquirir experiência prática, contribuir em projetos reais e evoluir profissionalmente como desenvolvedor Full Stack e Mobile.
 
 ---
 
-## 🛤️ Minha Jornada
+# 🛤️ Minha Jornada
 
 ```txt
-2025 → Início do curso de Desenvolvimento de Sistemas - SENAI
-2025 → Estudos em Banco de Dados e Java
-2026 → Aprofundamento em MVC, Flutter e Python
+2025 → Início do curso Técnico em Desenvolvimento de Sistemas
+2025 → Estudos em Java e Banco de Dados
+2026 → Aprofundamento em Flutter, MVC e Python
 2026 → Desenvolvimento de projetos práticos
 ```
 
@@ -84,16 +63,17 @@ Busco minha primeira oportunidade na área de desenvolvimento de software para a
 
 ## ☕ Sistema MVC em Java
 
-Sistema desktop desenvolvido utilizando arquitetura MVC e banco de dados MySQL.
+Sistema desktop utilizando arquitetura MVC integrada ao MySQL.
 
-### Tecnologias
-- Java
-- MVC
-- MySQL
+### ⚙️ Tecnologias
 
-<p align="left">
+* Java
+* MVC
+* MySQL
+
+<p>
   <a href="LINK_DO_PROJETO">
-    <img src="https://img.shields.io/badge/Ver%20Projeto-00C853?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Ver_Projeto-00C853?style=for-the-badge">
   </a>
 </p>
 
@@ -101,16 +81,17 @@ Sistema desktop desenvolvido utilizando arquitetura MVC e banco de dados MySQL.
 
 ## 📱 Aplicativo Mobile em Flutter
 
-Aplicativo mobile desenvolvido com Flutter utilizando interface moderna e responsiva.
+Aplicativo mobile moderno e responsivo desenvolvido com Flutter.
 
-### Tecnologias
-- Flutter
-- Dart
-- Firebase
+### ⚙️ Tecnologias
 
-<p align="left">
+* Flutter
+* Dart
+* Firebase
+
+<p>
   <a href="LINK_DO_PROJETO">
-    <img src="https://img.shields.io/badge/Ver%20Projeto-00C853?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Ver_Projeto-00C853?style=for-the-badge">
   </a>
 </p>
 
@@ -118,16 +99,17 @@ Aplicativo mobile desenvolvido com Flutter utilizando interface moderna e respon
 
 ## 🌌 Astronomia Infinite
 
-Website desenvolvido utilizando HTML, CSS e JavaScript.
+Website sobre astronomia desenvolvido com HTML, CSS e JavaScript.
 
-### Tecnologias
-- HTML
-- CSS
-- JavaScript
+### ⚙️ Tecnologias
 
-<p align="left">
+* HTML5
+* CSS3
+* JavaScript
+
+<p>
   <a href="https://astronomiainfinite.netlify.app">
-    <img src="https://img.shields.io/badge/Acessar%20Site-00C853?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Acessar_Site-00C853?style=for-the-badge">
   </a>
 </p>
 
@@ -140,84 +122,84 @@ Website desenvolvido utilizando HTML, CSS e JavaScript.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=raphaelsquilaro&show_icons=true&theme=github_dark&hide_border=true&title_color=00C853&icon_color=00C853&text_color=ffffff"
-  />
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=raphaelsquilaro&show_icons=true&theme=github_dark&hide_border=true&title_color=00C853&icon_color=00C853"
+/>
 
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsquilaro&layout=compact&hide_border=true&title_color=00C853&text_color=ffffff&bg_color=0d1117"
-  />
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsquilaro&layout=compact&theme=github_dark&hide_border=true&title_color=00C853"
+/>
 
 </p>
 
 ---
 
-## 🔥 Sequência de Contribuições
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img 
+  <img
     src="https://streak-stats.demolab.com?user=raphaelsquilaro&theme=github-dark&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853"
   />
 </p>
 
 ---
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
 <p align="center">
-  <img 
+  <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelsquilaro&theme=github-compact&hide_border=true&area=true"
   />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
+  <img
     src="https://github-profile-trophy.vercel.app/?username=raphaelsquilaro&theme=matrix&no-frame=true&row=1&column=6"
   />
 </p>
 
 ---
 
-## 🌎 Idiomas
+# 🌎 Idiomas
 
-- 🇧🇷 Português — Nativo
-- 🇺🇸 Inglês — Básico / Intermediário
+* 🇧🇷 Português — Nativo
+* 🇺🇸 Inglês — Básico / Intermediário
 
 ---
 
-## 🖥️ Setup
+# 🖥️ Meu Setup
 
 ```txt
 💻 Notebook/Desktop
 ⚡ VS Code
 ☕ Java + Flutter + Python
 🎧 Música enquanto programa
-🌙 Código até a noite
+🌙 Código até tarde
 ```
 
 ---
 
-## 🎯 Metas para 2026
+# 🎯 Metas para 2026
 
-- Conseguir minha primeira oportunidade como desenvolvedor
-- Publicar aplicativos mobile
-- Dominar Java e Spring Boot
-- Criar automações avançadas em Python
-- Construir um portfólio forte
+* 🚀 Conseguir minha primeira oportunidade como desenvolvedor
+* 📱 Publicar aplicativos mobile
+* ☕ Dominar Spring Boot
+* 🤖 Criar automações avançadas em Python
+* 🌐 Construir um portfólio forte
 
 ---
 
-## 🌐 Contato
+# 🌐 Contato
 
 <p align="center">
 
@@ -237,26 +219,26 @@ Website desenvolvido utilizando HTML, CSS e JavaScript.
 
 ---
 
-## 👀 Visualizações
+# 👀 Visualizações
 
 <p align="center">
-  <img 
+  <img
     src="https://komarev.com/ghpvc/?username=raphaelsquilaro&label=Visualizações&color=00C853&style=flat"
   />
 </p>
 
 ---
 
-## 💭 Frase
+# 💭 Frase
 
 <p align="center">
-  <em>"Visando a Tecnologia para o Futuro."</em> 🚀
+  <i>"Transformando ideias em tecnologia."</i> 🚀
 </p>
 
 ---
 
 <p align="center">
-  <img 
+  <img
     src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer"
   />
 </p>
