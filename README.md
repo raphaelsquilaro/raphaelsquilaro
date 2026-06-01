@@ -1,164 +1,163 @@
+````md
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=20,24,30&text=Raphael%20Campos%20Squilaro&fontColor=F7D6E6&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20System%20Builder%20%7C%20Problem%20Solver&descAlignY=58"/>
+
+</div>
+
 <div align="center">
 
 # 🌑 Raphael Campos Squilaro
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=8B1E5A&center=true&vCenter=true&width=700&lines=Software+Developer+in+Progress;Backend+%7C+Java+%7C+Spring+Boot;Architecture+%26+Problem+Solving;Building+Ideas+Into+Systems" />
-
-<img src="https://img.shields.io/badge/Focus-Software%20Engineering-5E1742?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Java%20Spring%20Boot-7A1F52?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-8F295C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database-SQL-5C1737?style=for-the-badge"/>
+### *Transformando ideias em sistemas.*
 
 </div>
 
 ---
 
-# 🌌 About Me
+## 🌌 Sobre Mim
 
-```java
-public class Raphael {
+```txt
+Nome: Raphael Campos Squilaro
+Foco: Engenharia de Software
+Objetivo: Construir sistemas inteligentes e escaláveis
+Interesses: Backend • Arquitetura • Segurança • Escrita • Tecnologia
+```
 
-    String role = "Developer in Progress";
-    String focus = "Software Engineering";
-    
-    String[] interests = {
-        "Programming",
-        "Software Architecture",
-        "Backend Development",
-        "Problem Solving",
-        "Writing",
-        "Drawing",
-        "Technology"
-    };
+💻 Desenvolvedor em evolução apaixonado por **tecnologia, arquitetura de sistemas e resolução de problemas**.
 
-    String currentGoal =
-        "Become a highly skilled developer and build impactful systems.";
-}
+📚 Atualmente aprofundando conhecimentos em:
 
-
-````md
-# 💻 About Me
-
-💻 **Desenvolvedor em evolução** apaixonado por tecnologia, arquitetura de sistemas e resolução de problemas.
-
-📚 Atualmente estudando **desenvolvimento backend, arquitetura de software e engenharia de sistemas**.
-
-🎯 **Interesse especial em:**
-
-- Sistemas escaláveis
-- Backend robusto
-- Segurança
-- Clean Architecture
+- Desenvolvimento Backend
+- Engenharia de Software
+- Arquitetura de Sistemas
+- Segurança de Aplicações
 - APIs REST
-- Java & Spring Boot
-- Aplicações inteligentes
+- Desenvolvimento Full Stack
+
+🎯 Minha meta é construir aplicações robustas, inteligentes e escaláveis — criando soluções reais através da tecnologia.
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Arsenal
 
-## 💻 Languages
+## 💻 Linguagens
 
-![Java](https://img.shields.io/badge/Java-8B1E5A?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-7A1F52?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-5E1742?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4A1030?style=for-the-badge)
-
----
-
-## ⚙️ Backend
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-8F295C?style=for-the-badge&logo=springboot&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-7A1F52?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-5E1742?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" />
+</p>
 
 ---
 
-## 🗄 Database
+## ⚙️ Backend & Architecture
 
-![MySQL](https://img.shields.io/badge/MySQL-8B1E5A?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7A1F52?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
+
+- Spring Boot
+- JWT Authentication
+- REST APIs
+- Clean Architecture
+- MVC
+- SQL & Data Modeling
 
 ---
 
 ## 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-8F295C?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-7A1F52?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-5E1742?style=for-the-badge&logo=javascript&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
 ---
 
 ## 📱 Mobile
 
-![Flutter](https://img.shields.io/badge/Flutter-8B1E5A?style=for-the-badge&logo=flutter&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
 ---
 
-## 🧰 Tools
+## 🧰 Tools & Environment
 
-![Git](https://img.shields.io/badge/Git-7A1F52?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-5E1742?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-8F295C?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-7A1F52?style=for-the-badge&logo=linux&logoColor=white)
-
----
-
-# 🚀 Current Goals
-
-- 📌 Aprimorar **Java + Spring Boot**
-- 📌 Desenvolver sistemas completos
-- 📌 Dominar arquitetura de software
-- 📌 Criar projetos de impacto real
-- 📌 Evoluir em backend e segurança
-- 📌 Construir aplicações escaláveis
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea" />
+</p>
 
 ---
 
-# 🏗 Featured Project
+# 🚀 Current Mission
+
+```diff
++ Dominar Java & Spring Boot
++ Construir sistemas completos
++ Aprender arquitetura escalável
++ Evoluir em segurança backend
++ Criar projetos reais de impacto
++ Aprimorar lógica e design de software
+```
+
+---
+
+# 🏗 Main Project
 
 ## 🌑 Meritum
 
 > Plataforma inteligente de gestão acadêmica, economia virtual e gamificação educacional.
 
-### Features:
+### Features
 
-- 🎓 Gestão acadêmica
-- 💰 Economia virtual
-- 📈 Ranking inteligente
-- 🏆 Sistema meritocrático
-- 💬 Chat estudantil
-- 🔒 JWT + RBAC
-- 📱 Flutter + Spring Boot
+```txt
+🎓 Gestão Acadêmica
+💰 Economia Virtual
+📈 Ranking Inteligente
+🏆 Sistema Meritocrático
+💬 Comunicação Estudantil
+🔒 JWT + RBAC
+📱 Flutter + Spring Boot
+```
 
-```text
-Monolith Modular → Microservices
-````
+### Arquitetura
 
----
-
-# 📚 Currently Learning
-
-```text
-Java Advanced
-Spring Boot
-JWT Authentication
-Clean Architecture
-System Design
-Flutter
-SQL Optimization
-Docker & DevOps
+```txt
+Monolith Modular
+        ↓
+Scalable Architecture
+        ↓
+Microservices Ready
 ```
 
 ---
 
-# 📊 GitHub Stats
+# 📚 Atualmente Estudando
+
+```java
+public class LearningPath {
+
+    String[] technologies = {
+        "Java Advanced",
+        "Spring Boot",
+        "JWT Security",
+        "Clean Architecture",
+        "System Design",
+        "Flutter",
+        "SQL Optimization",
+        "Docker & DevOps"
+    };
+}
+```
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical&bg_color=1A0612&title_color=C94F9D&text_color=F8D7E8&icon_color=A62D72&border_color=5E1742"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=transparent&title_color=B34B7A&text_color=F4D4E3&icon_color=9A2C5F&border_color=5C1737&bg_color=00000000"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=radical&bg_color=1A0612&title_color=C94F9D&text_color=F8D7E8&border_color=5E1742"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=transparent&title_color=B34B7A&text_color=F4D4E3&border_color=5C1737&bg_color=00000000"/>
 
 </div>
 
@@ -168,23 +167,31 @@ Docker & DevOps
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=radical&background=1A0612&ring=C94F9D&fire=A62D72&currStreakLabel=F8D7E8&sideLabels=F8D7E8&currStreakNum=FFFFFF&dates=D6A4C2&border=5E1742"/>
+<img src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=transparent&background=00000000&ring=B34B7A&fire=8F295C&currStreakLabel=F4D4E3&sideLabels=F4D4E3&currStreakNum=FFFFFF&dates=D4A7BA&border=5C1737"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-5E1742?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEUUSERNAME)
+<div align="center">
 
-<!-- Adicione LinkedIn, Portfolio ou Email futuramente -->
+[![GitHub](https://img.shields.io/badge/GitHub-5C1737?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+
+<!-- Futuramente:
+LinkedIn
+Portfolio
+Email
+-->
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🌑 *"Building systems, solving problems, evolving every day."*
+### 🌑 *"Every system starts as an idea."*
 
 </div>
-```
+````
