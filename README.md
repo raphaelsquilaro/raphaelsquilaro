@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=20,24,30&text=Raphael%20Campos%20Squilaro&fontColor=F7D6E6&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20System%20Builder%20%7C%20Problem%20Solver&descAlignY=58"/>
@@ -194,4 +193,3 @@ Email
 ### 🌑 *"Every system starts as an idea."*
 
 </div>
-````
