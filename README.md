@@ -1,217 +1,190 @@
-# <h1 align="center">Hey, I'm Raphael Campos Squilaro 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Java Developer • Flutter Developer • Software Developer</em>
-</p>
+# 🌑 Raphael Campos Squilaro
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="400px" alt="coding gif looping" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=8B1E5A&center=true&vCenter=true&width=700&lines=Software+Developer+in+Progress;Backend+%7C+Java+%7C+Spring+Boot;Architecture+%26+Problem+Solving;Building+Ideas+Into+Systems" />
 
----
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-5E1742?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Java%20Spring%20Boot-7A1F52?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-8F295C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-SQL-5C1737?style=for-the-badge"/>
 
-<p align="center">
-  Apaixonado por tecnologia, desenvolvimento de software e automação.  
-  Aqui você vai encontrar meus projetos, estudos e experiências com Java, Flutter, Python e desenvolvimento Full Stack 🚀
-</p>
-
-<p align="center">
-  <a href="https://github.com/raphaelsquilaro">
-    <img src="https://img.shields.io/badge/-GitHub-00C853?style=flat-square&logo=github&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-    <img src="https://img.shields.io/badge/-LinkedIn-00C853?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:raphael.squilaro@senai.aluno.br">
-    <img src="https://img.shields.io/badge/-Email-00C853?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-</p>
+</div>
 
 ---
 
-## 🧠 About Me
+# 🌌 About Me
 
-* 🎓 Estudante de Desenvolvimento de Sistemas no SENAI
-* 📚 Cursando o 3º ano do Ensino Médio
-* 💻 Focado em desenvolvimento Full Stack e Mobile
-* ⚡ Sempre buscando aprender novas tecnologias
-* 🚀 Em busca da primeira oportunidade como desenvolvedor
+```java
+public class Raphael {
 
----
+    String role = "Developer in Progress";
+    String focus = "Software Engineering";
+    
+    String[] interests = {
+        "Programming",
+        "Software Architecture",
+        "Backend Development",
+        "Problem Solving",
+        "Writing",
+        "Drawing",
+        "Technology"
+    };
 
-## 🛠️ Tecnologias & Ferramentas
+    String currentGoal =
+        "Become a highly skilled developer and build impactful systems.";
+}
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,flutter,dart,html,css,javascript,mysql,git,github,vscode,firebase" />
-</p>
 
----
+````md
+# 💻 About Me
 
-## 📚 Atualmente Estudando
+💻 **Desenvolvedor em evolução** apaixonado por tecnologia, arquitetura de sistemas e resolução de problemas.
 
-* ☕ Spring Boot
-* 🔗 APIs REST
-* 📱 Flutter Avançado
-* 🧠 Estruturas de Dados
-* 🏗️ Clean Architecture
-* 🤖 Automação com Python
+📚 Atualmente estudando **desenvolvimento backend, arquitetura de software e engenharia de sistemas**.
 
----
+🎯 **Interesse especial em:**
 
-## 🚀 Projetos em Destaque
-
-### ☕ Sistema MVC em Java
-
-Sistema desktop utilizando arquitetura MVC integrada ao MySQL.
-
-#### ⚙️ Tecnologias
-
-* Java
-* MVC
-* MySQL
-
-<p>
-  <a href="LINK_DO_PROJETO">
-    <img src="https://img.shields.io/badge/Ver_Projeto-00C853?style=for-the-badge">
-  </a>
-</p>
+- Sistemas escaláveis
+- Backend robusto
+- Segurança
+- Clean Architecture
+- APIs REST
+- Java & Spring Boot
+- Aplicações inteligentes
 
 ---
 
-### 📱 Aplicativo Mobile em Flutter
+# 🛠 Tech Stack
 
-Aplicativo mobile moderno e responsivo desenvolvido com Flutter.
+## 💻 Languages
 
-#### ⚙️ Tecnologias
-
-* Flutter
-* Dart
-* Firebase
-
-<p>
-  <a href="LINK_DO_PROJETO">
-    <img src="https://img.shields.io/badge/Ver_Projeto-00C853?style=for-the-badge">
-  </a>
-</p>
+![Java](https://img.shields.io/badge/Java-8B1E5A?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7A1F52?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5E1742?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4A1030?style=for-the-badge)
 
 ---
 
-### 🌌 Astronomia Infinite
+## ⚙️ Backend
 
-Website sobre astronomia desenvolvido com HTML, CSS e JavaScript.
-
-#### ⚙️ Tecnologias
-
-* HTML5
-* CSS3
-* JavaScript
-
-<p>
-  <a href="https://astronomiainfinite.netlify.app">
-    <img src="https://img.shields.io/badge/Acessar_Site-00C853?style=for-the-badge">
-  </a>
-</p>
-
-<p align="center">
-  <img 
-    width="1000"
-    src="https://github.com/user-attachments/assets/69d7ae7a-27a4-4a66-8ace-74313a3c5822"
-  />
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-8F295C?style=for-the-badge&logo=springboot&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-7A1F52?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-5E1742?style=for-the-badge)
 
 ---
 
-## 🔥 GitHub Streak
+## 🗄 Database
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=raphaelsquilaro&theme=github-dark&hide_border=true&ring=00C853&fire=00C853&currStreakLabel=00C853"
-  />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-8B1E5A?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7A1F52?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📈 Activity Graph
+## 🎨 Frontend
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=raphaelsquilaro&theme=github-compact&hide_border=true&area=true"
-  />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-8F295C?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-7A1F52?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5E1742?style=for-the-badge&logo=javascript&logoColor=white)
 
 ---
 
-## 🌎 Idiomas
+## 📱 Mobile
 
-* 🇧🇷 Português — Nativo
-* 🇺🇸 Inglês — Básico / Intermediário
+![Flutter](https://img.shields.io/badge/Flutter-8B1E5A?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
-## 🖥️ Meu Setup
+## 🧰 Tools
 
-```txt
-💻 Notebook/Desktop
-⚡ VS Code
-☕ Java + Flutter + Python
-🎧 Música enquanto programa
-🌙 Código até tarde
+![Git](https://img.shields.io/badge/Git-7A1F52?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-5E1742?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-8F295C?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-7A1F52?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+# 🚀 Current Goals
+
+- 📌 Aprimorar **Java + Spring Boot**
+- 📌 Desenvolver sistemas completos
+- 📌 Dominar arquitetura de software
+- 📌 Criar projetos de impacto real
+- 📌 Evoluir em backend e segurança
+- 📌 Construir aplicações escaláveis
+
+---
+
+# 🏗 Featured Project
+
+## 🌑 Meritum
+
+> Plataforma inteligente de gestão acadêmica, economia virtual e gamificação educacional.
+
+### Features:
+
+- 🎓 Gestão acadêmica
+- 💰 Economia virtual
+- 📈 Ranking inteligente
+- 🏆 Sistema meritocrático
+- 💬 Chat estudantil
+- 🔒 JWT + RBAC
+- 📱 Flutter + Spring Boot
+
+```text
+Monolith Modular → Microservices
+````
+
+---
+
+# 📚 Currently Learning
+
+```text
+Java Advanced
+Spring Boot
+JWT Authentication
+Clean Architecture
+System Design
+Flutter
+SQL Optimization
+Docker & DevOps
 ```
 
 ---
 
-## 🎯 Metas para 2026
+# 📊 GitHub Stats
 
-* 🚀 Conseguir minha primeira oportunidade como desenvolvedor
-* 📱 Publicar aplicativos mobile
-* ☕ Dominar Spring Boot
-* 🤖 Criar automações avançadas em Python
-* 🌐 Construir um portfólio forte
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical&bg_color=1A0612&title_color=C94F9D&text_color=F8D7E8&icon_color=A62D72&border_color=5E1742"/>
 
-## 🌐 Contato
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=radical&bg_color=1A0612&title_color=C94F9D&text_color=F8D7E8&border_color=5E1742"/>
 
-<p align="center">
-
-<a href="https://github.com/raphaelsquilaro">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:raphael.squilaro@senai.aluno.br">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
+</div>
 
 ---
 
-## 👀 Visualizações
+# 🔥 Contribution Streak
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=raphaelsquilaro&label=Visualizações&color=00C853&style=flat"
-  />
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=radical&background=1A0612&ring=C94F9D&fire=A62D72&currStreakLabel=F8D7E8&sideLabels=F8D7E8&currStreakNum=FFFFFF&dates=D6A4C2&border=5E1742"/>
 
-## 💭 Frase
-
-<p align="center">
-  <em>Keep building. One commit at a time.</em> 🟩
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=120&section=footer"
-  />
-</p>
+# 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-5E1742?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SEUUSERNAME)
+
+<!-- Adicione LinkedIn, Portfolio ou Email futuramente -->
+
+---
+
+<div align="center">
+
+### 🌑 *"Building systems, solving problems, evolving every day."*
+
+</div>
+```
