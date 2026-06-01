@@ -310,11 +310,11 @@ public class LearningPath {
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=transparent&title_color=B34B7A&text_color=F4D4E3&icon_color=9A2C5F&border_color=5C1737&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaelsquilaro&show_icons=true&theme=transparent&title_color=B34B7A&text_color=F4D4E3&icon_color=9A2C5F&border_color=5C1737&bg_color=00000000"/>
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=transparent&title_color=B34B7A&text_color=F4D4E3&border_color=5C1737&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelsquilaro&layout=compact&theme=transparent&title_color=B34B7A&text_color=F4D4E3&border_color=5C1737&bg_color=00000000"/>
 
 
 
@@ -334,7 +334,7 @@ public class LearningPath {
 
 
 
-<img src="https://streak-stats.demolab.com?user=SEUUSERNAME&theme=transparent&background=00000000&ring=B34B7A&fire=8F295C&currStreakLabel=F4D4E3&sideLabels=F4D4E3&currStreakNum=FFFFFF&dates=D4A7BA&border=5C1737"/>
+<img src="https://streak-stats.demolab.com?user=raphaelsquilaro&theme=transparent&background=00000000&ring=B34B7A&fire=8F295C&currStreakLabel=F4D4E3&sideLabels=F4D4E3&currStreakNum=FFFFFF&dates=D4A7BA&border=5C1737"/>
 
 
 
@@ -515,7 +515,7 @@ Quando não estou programando:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSERNAME&theme=radical&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rapahelsquilaro&theme=radical&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -529,7 +529,7 @@ Quando não estou programando:
 
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/SEUUSERNAME/SEUUSERNAME/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/raphaelsquilaro/raphaelsquilaro/output/snake.svg" />
 
 </p>
 
